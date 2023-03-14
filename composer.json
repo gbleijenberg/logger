@@ -1,0 +1,19 @@
+{
+    "name": "gbleijenberg/logger",
+    "description": "A library to log data.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Gbleijenberg\\Logger\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Guido Bleijenberg",
+            "email": "guidobleijenberg@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
