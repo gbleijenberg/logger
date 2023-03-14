@@ -1,2 +1,10 @@
-PSR-4 autoloading configured. Use "namespace Gbleijenberg\Logger;" in src/
-Include the Composer autoloader with: require 'vendor/autoload.php';
+# Logger
+
+A library to log data.
+
+Memo:
+```php
+namespace Gbleijenberg\Logger;
+require 'vendor/autoload.php'
+
+```
