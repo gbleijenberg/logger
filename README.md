@@ -6,5 +6,4 @@ Memo:
 ```php
 namespace Gbleijenberg\Logger;
 require 'vendor/autoload.php'
-
 ```
